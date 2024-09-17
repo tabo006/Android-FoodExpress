@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".createOrder">
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="1dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/nom"
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:text="name"
+                android:textAlignment="center"
+                android:textSize="45dp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/trepas"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="Type de repas"
+            android:textAlignment="center"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/tcuisine"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="Type de cuisine"
+            android:textAlignment="center"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/ingrerepas"
+            android:layout_width="match_parent"
+            android:layout_height="87dp"
+            android:text="Ingrdients"
+            android:textAlignment="center"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/allergene"
+            android:layout_width="match_parent"
+            android:layout_height="87dp"
+            android:text="Allergenes"
+            android:textAlignment="center"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/rating_repa"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="Description"
+            android:textSize="25dp" />
+
+        <TextView
+            android:id="@+id/prix"
+            android:layout_width="168dp"
+            android:layout_height="59dp"
+            android:text="Prix"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/button13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#AA7C39"
+            android:onClick="order"
+            android:text="ORDER"
+            app:cornerRadius="40dp" />
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#AA7C39"
+            android:onClick="retourAuMenu"
+            android:text="Retour a l'Acceuil"
+            android:translationY="10dp"
+            app:cornerRadius="40dp" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

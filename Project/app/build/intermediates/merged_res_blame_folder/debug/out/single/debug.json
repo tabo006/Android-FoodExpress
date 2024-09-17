@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_recherche_client.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_recherche_client.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_search_list_view.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/search_list_view.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/drawable_noirlac__photo.jpeg.flat",
+        "source": "com.example.project.app-main-35:/drawable/noirlac__photo.jpeg"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/drawable_fast_food_illustration_set_121223_1482.webp.flat",
+        "source": "com.example.project.app-main-35:/drawable/fast_food_illustration_set_121223_1482.webp"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/drawable__6afb73c_fc80_4f0e_bfe9_22738369687c.jpeg.flat",
+        "source": "com.example.project.app-main-35:/drawable/_6afb73c_fc80_4f0e_bfe9_22738369687c.jpeg"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_orders_cuisinier.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_orders_cuisinier.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_complaints_list_view_layout.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_complaints_list_view_layout.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_admin_home.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_admin_home.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/drawable_download.jpg.flat",
+        "source": "com.example.project.app-main-35:/drawable/download.jpg"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_complaint.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_complaint.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_repas.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_repas.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_rechercher_result.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_rechercher_result.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/drawable_garlic_butter_steak_and_potatoes_skillet.jpeg.flat",
+        "source": "com.example.project.app-main-35:/drawable/garlic_butter_steak_and_potatoes_skillet.jpeg"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_client_sign_in.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_client_sign_in.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.project.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/drawable___food_resources___by_bathtoys_on_deviantart.png.flat",
+        "source": "com.example.project.app-main-35:/drawable/__food_resources___by_bathtoys_on_deviantart.png"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_bienvenue_client.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_bienvenue_client.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_order.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_order.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_commande_list_cuisinier.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_commande_list_cuisinier.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_banning.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_banning.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.project.app-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_inscrire_cuisinier.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_inscrire_cuisinier.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_menu_cuisinier.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_menu_cuisinier.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/drawable_c3ae0724_9ca9_4699_82d0_e52dd101e261.jpeg.flat",
+        "source": "com.example.project.app-main-35:/drawable/c3ae0724_9ca9_4699_82d0_e52dd101e261.jpeg"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/drawable_images.png.flat",
+        "source": "com.example.project.app-main-35:/drawable/images.png"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_create_complaint.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_create_complaint.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/drawable_cropped_restaurant_website_design_ideas_and_examples.jpg.flat",
+        "source": "com.example.project.app-main-35:/drawable/cropped_restaurant_website_design_ideas_and_examples.jpg"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_repa_offert.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_repa_offert.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/drawable__1641a66_aa15_4699_839c_667ca0781c2b.jpeg.flat",
+        "source": "com.example.project.app-main-35:/drawable/_1641a66_aa15_4699_839c_667ca0781c2b.jpeg"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_orders_list_view.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_orders_list_view.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.project.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_main_page.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_main_page.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_menu_list_view.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/menu_list_view.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_create_order.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_create_order.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.project.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_cuisinier_sign_in.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_cuisinier_sign_in.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_administrateur_sign_in.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_administrateur_sign_in.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.project.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.project.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.project.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.project.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_menu_displayed.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_menu_displayed.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_orders.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_orders.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_add_dish.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_add_dish.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/drawable_images_1.jpg.flat",
+        "source": "com.example.project.app-main-35:/drawable/images_1.jpg"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_inscrire_client.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_inscrire_client.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_cookinfo_cuisinier.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_cookinfo_cuisinier.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_evaluation_cuisinier.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_evaluation_cuisinier.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_ban2days.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_ban2days.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_bienvenue_cuisinier.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_bienvenue_cuisinier.xml"
+    },
+    {
+        "merged": "com.example.project.app-merged_res-33:/layout_activity_cook_info.xml.flat",
+        "source": "com.example.project.app-main-35:/layout/activity_cook_info.xml"
+    }
+]

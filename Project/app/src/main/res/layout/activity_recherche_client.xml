@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Recherche_client">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="Search Food"
+            android:textAlignment="center"
+            android:textSize="34sp" />
+
+        <EditText
+            android:id="@+id/type_repa"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:ems="10"
+            android:hint="Type your Food name search"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/type_cuisine"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:ems="10"
+            android:hint="Type your cuisine type name"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Choose type of search"
+            android:textAlignment="center"
+            android:textSize="24sp" />
+
+        <RadioGroup
+            android:id="@+id/Tsearch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/Tcuisine"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Type de cuisine" />
+
+            <RadioButton
+                android:id="@+id/Trepa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Type de repa" />
+
+            <RadioButton
+                android:id="@+id/Tboth"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="both" />
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/search_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="search"
+            android:text="Search" />
+
+        <Button
+            android:id="@+id/button17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="retour"
+            android:text="Retour a l'acceuil" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

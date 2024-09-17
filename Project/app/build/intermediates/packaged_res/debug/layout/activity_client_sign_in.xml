@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".client_sign_in">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/c3ae0724_9ca9_4699_82d0_e52dd101e261"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:ems="10"
+            android:hint="username@please.com"
+            android:inputType="textPersonName"
+            android:textAlignment="center"
+            android:textColorHint="@color/black"
+            android:textSize="30dp"
+            android:translationY="100dp" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="361dp"
+            android:layout_height="60dp"
+            android:ems="10"
+            android:hint="password"
+            android:inputType="textPassword"
+            android:textAlignment="center"
+            android:textColorHint="@color/black"
+            android:textSize="30dp"
+            android:translationX="20dp"
+            android:translationY="150dp" />
+
+        <Button
+            android:id="@+id/connecter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="connecter"
+            android:text="connecter"
+            android:translationY="275dp"
+            app:cornerRadius="40dp" />
+
+        <Button
+            android:id="@+id/retour"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="retour"
+            android:text="RETOUR"
+            android:translationY="300dp"
+            app:cornerRadius="40dp" />
+
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

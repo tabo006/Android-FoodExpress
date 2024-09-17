@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".add_dish">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ADD DISH"
+            android:textSize="50dp"
+            android:translationX="90dp" />
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:ems="10"
+            android:hint="Name"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/typeRepas"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:ems="10"
+            android:hint="Type de Repas"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/typeCuisine"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:ems="10"
+            android:hint="Type de Cuisine"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/ingredients"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:ems="10"
+            android:hint="Liste des ingredients"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/allergene"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:ems="10"
+            android:hint="Allergenes"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/prix"
+            android:layout_width="99dp"
+            android:layout_height="50dp"
+            android:ems="10"
+            android:hint="Prix"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/rating_repa"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:ems="10"
+            android:hint="Description"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="add"
+            android:text="Add repas" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="match_parent"
+            android:layout_height="61dp"
+            android:onClick="retour"
+            android:text="Retour au Menu" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
